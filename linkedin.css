@@ -1,0 +1,126 @@
+.linkedinbar{
+    background-color: #333;
+    width: 1020px;
+    height: 70px;
+    margin: -10px 
+}
+.logo{
+    padding-left: 30px;
+    padding-top: 15px
+}
+.loginform{
+    float: right;
+    padding-right: 50px;
+    padding-top: 15px
+}    
+.forgotlink{
+    float: right;
+    padding-top: 10px;
+    color: snow;
+    position: absolute;
+    right: 145px;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: sans-serif   
+}
+.button{
+    color: black;
+    font-weight: bold;
+    background-color: darkgray;
+    border-radius: 5px;
+    height: 25px  
+}
+.signupform{
+    background-color: #eee;
+    width: 400px;
+    margin-left: 300px;
+    margin-top: 30px;
+    height: 480px;
+}
+h1{
+    font-weight: normal;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: sans-serif
+    
+}
+h2{
+    font-weight: normal;
+    font-size: 17px;
+    text-align: center;
+    padding-top: 7px;
+    font-family: sans-serif
+}
+.text{
+    font-size: 12px;
+    font-family: sans-serif;
+    color: gray
+}
+ul{
+    list-style: none;
+    padding-left: 15px
+}
+.fill{
+    width: 350px;
+    height: 25px
+    
+}
+.bottom{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: gray;
+    padding-left: 7px;
+    padding-right: 15px
+}
+.click{
+    background-color: #F6E312;
+    width: 300px;
+    font-weight: bold;
+    border-radius: 5px;
+    height: 35px
+   
+}
+.signbutton{
+    padding-left: 50px
+}
+.bottombar{
+    background-color: #333;
+    width: 1020px;
+    height: 70px;
+    margin: -10px;
+    margin-top: 30px;
+}
+.bottom1{
+    color: gray;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-left: 190px;
+    font-size: 15px 
+    
+}
+.colleague{
+   padding-top: 10px
+}
+.direct{
+    color: gray;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding-left: 170px
+}
+.image{
+    background-image: url(linkimage.jpg);
+    background-size: cover;
+    margin-left:-10px;
+    margin-right: -10px;
+}
+.directory{
+    color:#006fa6;
+    letter-spacing: 3px;
+    text-decoration: none
+}
+.directory1{
+    color: white;
+    text-decoration: none
+}
